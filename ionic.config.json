@@ -1,5 +1,7 @@
 {
   "name": "BUF",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
